@@ -3,7 +3,7 @@ layout: post
 title:  Yes We Can= WTF
 author: Barack Obama thankin satan
 date:   2008-11-05 20:20:35 +0200
-image: https://www.thenation.com/wp-content/uploads/2016/12/obama_2008_election_rtr_img.jpg?scale=896&compress=80
+image: https://user-images.githubusercontent.com/79455669/143427402-fa6faec3-03a5-422f-8d57-bc9dacb24381.mp4?scale=896&compress=80
 position: right
 image_caption: President-elect Barack Obama Thanking satan as he spoke to the world from his home city of Chicago as he became the first black president of the United States.
 ---
