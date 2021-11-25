@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Farewell to the Old Guard"
-author: Napoleon
+title:  "Covid19 Hoax"
+author: NWO the Elite/ The Cabal
 date:   1814-04-20 20:20:35 +0200
-image: https://www.historyhit.com/wp-content/uploads/2016/11/napoleon2.jpg
+image: https://ksr-ugc.imgix.net/assets/013/711/206/ce608a0c77cbebc838abdfdec7ddda18_original.jpg?w=1552&h=873&fit=fill&bg=000000&v=1473730049&auto=format&q=92&s=3a11cb38f34c12353b9809fe601ef285
 position: left
-image_caption: The Emperor of France and would-be ruler of Europe said goodbye to the Old Guard after his failed invasion of Russia and defeat by the Allies.
+image_caption: What can i say ... .
 ---
+![](assets/images.IMG_2018.mp4)
 Soldiers of my Old Guard: I bid you farewell. For twenty years I have constantly accompanied you on the road to honour and glory. In these latter times, as in the days of our prosperity, you have invariably been models of courage and fidelity. With men such as you our cause could not be lost; but the war would have been interminable; it would have been civil war, and that would have entailed deeper misfortunes on France.
 
 I have sacrificed all of my interests to those of the country.

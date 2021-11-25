@@ -3,9 +3,8 @@ layout: post
 title:  "Common Sense"
 author: Thomas Payne
 date:   1776-02-14 20:20:35 +0200
-image: http://www.scrollpublishing.com/store/media/Thomas-Payne.jpg
+image: http://www.freeworldorder.co.uk/wp-content/uploads/2021/11/China_Labor_Camp_Survivor_Details_Government_Organ_Harvesting.mp4
 ---
-Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins. Society is produced by our wants, and government by our wickedness; the former promotes our happiness positively by uniting our affections, the latter negatively by restraining our vices. The one encourages intercourse, the other creates distinctions.
 
 The first a patron, the last a punisher. <q>Society in every state is a blessing, but government even in its best state is but a necessary evil</q>
 
@@ -15,7 +14,9 @@ Government, like dress, is the badge of lost innocence; the palaces of kings are
 
 <!--more-->
 
-7 In order to gain a clear and just idea of the design and end of government, let us suppose a small number of persons settled in some sequestered part of the earth, unconnected with the rest, they will then represent the first peopling of any country, or of the world. In this state of natural liberty, society will be their first thought. A thousand motives will excite them thereto, the strength of one man is so unequal to his wants, and his mind so unfitted for perpetual solitude, that he is soon obliged to seek assistance and relief of another, who in his turn requires the same. Four or five united would be able to raise a tolerable dwelling in the midst of a wilderness, but one man might labour out of the common period of life without accomplishing any thing; when he had felled his timber he could not remove it, nor erect it after it was removed; hunger in the mean time would urge him from his work, and every different want call him a different way. Disease, nay even misfortune would be death, for though neither might be mortal, yet either would disable him from living, and reduce him to a state in which he might rather be said to perish than to die.
+![](http://www.freeworldorder.co.uk/wp-content/uploads/2021/11/China_Labor_Camp_Survivor_Details_Government_Organ_Harvesting.mp4)
+
+In order to gain a clear and just idea of the design and end of government, let us suppose a small number of persons settled in some sequestered part of the earth, unconnected with the rest, they will then represent the first peopling of any country, or of the world. In this state of natural liberty, society will be their first thought. A thousand motives will excite them thereto, the strength of one man is so unequal to his wants, and his mind so unfitted for perpetual solitude, that he is soon obliged to seek assistance and relief of another, who in his turn requires the same. Four or five united would be able to raise a tolerable dwelling in the midst of a wilderness, but one man might labour out of the common period of life without accomplishing any thing; when he had felled his timber he could not remove it, nor erect it after it was removed; hunger in the mean time would urge him from his work, and every different want call him a different way. Disease, nay even misfortune would be death, for though neither might be mortal, yet either would disable him from living, and reduce him to a state in which he might rather be said to perish than to die.
 
 8 Thus necessity, like a gravitating power, would soon form our newly arrived emigrants into society, the reciprocal blessings of which, would supersede, and render the obligations of law and government unnecessary while they remained perfectly just to each other; but as nothing but heaven is impregnable to vice, it will unavoidably happen, that in proportion as they surmount the first difficulties of emigration, which bound them together in a common cause, they will begin to relax in their duty and attachment to each other; and this remissness, will point out the necessity, of establishing some form of government to supply the defect of moral virtue.
 
